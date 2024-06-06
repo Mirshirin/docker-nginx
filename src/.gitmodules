@@ -1,0 +1,3 @@
+[submodule "ecommerce-new"]
+	path = ecommerce-new
+	url = https://github.com/Mirshirin/ecommere-new.git
